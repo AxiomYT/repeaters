@@ -15,8 +15,7 @@ Format:
       "country": "gb",
       "locator": "IO81ph",
       "website": "gb3wr.com"
-    },
-    ...
+    }
   ]
 }
 ```

@@ -1,0 +1,39 @@
+{
+  "repeaters": [
+    {
+      "callsign": "GB3WR",
+      "input": 145.000,
+      "output": 145.600,
+      "ctcss": 94.8,
+      "country": "gb",
+      "locator": "IO81ph",
+      "website": "gb3wr.com"
+    },
+    {
+      "callsign": "GB3BS",
+      "input": 438.450,
+      "output": 430.850,
+      "bandwidth": 25,
+      "ctcss": 118.8,
+      "country": "gb",
+      "locator": "IO81tk",
+      "website": "gb3bs.com"
+    },
+    {
+      "callsign": "GB7BS",
+      "input": 430.1625,
+      "output": 439.1625,
+      "country": "gb",
+      "locator": "IO81tk",
+      "website": "gb7bs.com"
+    },
+    {
+      "callsign": "MB7VV",
+      "input": 430.1625,
+      "output": 439.1625,
+      "country": "gb",
+      "locator": "IO81tk",
+      "website": "gb7bs.com"
+    }
+  ]
+}

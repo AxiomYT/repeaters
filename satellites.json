@@ -1,0 +1,260 @@
+{
+  "notes": "The format for satellites is not yet fixed, and may change.",
+  "repeaters": [
+    {
+      "callsign": "ISS-ITU1",
+      "launched": "1998-11-20",
+      "status": "operational",
+      "mode": "FM",
+      "input": 145.200,
+      "output": 145.800
+    },
+    {
+      "callsign": "ISS-ITU23",
+      "launched": "1998-11-20",
+      "status": "operational",
+      "mode": "FM",
+      "input": 144.490,
+      "output": 145.800
+    },
+    {
+      "callsign": "ISS-VHF-PACKET",
+      "launched": "1998-11-20",
+      "status": "operational",
+      "mode": "FM",
+      "input": 145.825,
+      "output": 145.825
+    },
+    {
+      "callsign": "ISS-REPEATER",
+      "launched": "1998-11-20",
+      "status": "operational",
+      "notes": "Repeater rarely activated.",
+      "mode": "FM",
+      "input": 437.800,
+      "output": 145.800
+    },
+    {
+      "callsign": "SO-50",
+      "launched": "2002-12-20",
+      "status": "operational",
+      "notes": "Need to enable for 10 mins by sending tone of 74.4 first",
+      "website": "amsat.org/?page_id=1015",
+      "mode": "FM",
+      "input": 145.850,
+      "output": 436.795,
+      "ctcss": 67.0,
+      "watts": 0.25
+    },
+    {
+      "callsign": "FO-29",
+      "launched": "1996-08-17",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1024",
+      "transponder": {
+        "input": [
+          "LSB",
+          145.9000,
+          146.0000
+        ],
+        "output": [
+          "USB",
+          435.8000,
+          435.9000
+        ]
+      }
+    },
+    {
+      "callsign": "FO-29-BEACON",
+      "launched": "1996-08-17",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1024",
+      "mode": "CW",
+      "output": 435.795
+    },
+    {
+      "callsign": "AO-7-VA",
+      "launched": "1974-11-15",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1031",
+      "transponder": {
+        "input": [
+          "USB",
+          145.850,
+          145.950
+        ],
+        "output": [
+          "USB",
+          29.400,
+          29.500
+        ]
+      }
+    },
+    {
+      "callsign": "AO-7-UV",
+      "launched": "1974-11-15",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1031",
+      "transponder": {
+        "input": [
+          "LSB",
+          432.125,
+          432.175
+        ],
+        "output": [
+          "USB",
+          145.975,
+          145.925
+        ]
+      }
+    },
+    {
+      "callsign": "AO-7-A-BEACON",
+      "launched": "1974-11-15",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1031",
+      "mode": "CW",
+      "output": 29.502
+    },
+    {
+      "callsign": "AO-7-V-BEACON",
+      "launched": "1974-11-15",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1031",
+      "mode": "CW",
+      "output": 145.9775
+    },
+    {
+      "callsign": "AO-7-U-BEACON",
+      "launched": "1974-11-15",
+      "status": "semi-operational",
+      "website": "amsat.org/?page_id=1031",
+      "mode": "CW",
+      "output": 435.100
+    },
+    {
+      "callsign": "AO-73",
+      "launched": "2013-11-21",
+      "status": "operational",
+      "website": "amsat.org/?page_id=2039",
+      "transponder": {
+        "input": [
+          "LSB",
+          435.130,
+          435.150
+        ],
+        "output": [
+          "USB",
+          145.950,
+          145.970
+        ]
+      }
+    },
+    {
+      "callsign": "AO-73-TELEMETRY",
+      "launched": "2013-11-21",
+      "status": "operational",
+      "website": "amsat.org/?page_id=2039",
+      "mode": "BPSK",
+      "output": 145.935,
+      "watts": 0.3
+    },
+    {
+      "callsign": "FO-82",
+      "launched": "2014-12-03",
+      "status": "",
+      "website": "amsat.org/?page_id=3452",
+      "transponder": {
+        "input": [
+          "LSB",
+          145.940,
+          145.960
+        ],
+        "output": [
+          "USB",
+          435.260,
+          435.280
+        ]
+      }
+    },
+    {
+      "callsign": "FO-82-BEACON",
+      "launched": "2014-12-03",
+      "status": "",
+      "website": "amsat.org/?page_id=3452",
+      "mode": "CW",
+      "output": 437.505
+    },
+    {
+      "callsign": "FO-82-TELEMETRY",
+      "launched": "2014-12-03",
+      "status": "",
+      "website": "amsat.org/?page_id=3452",
+      "mode": "WSJT",
+      "output": 437.385
+    },
+    {
+      "callsign": "LO-78",
+      "launched": "2014-02-28",
+      "status": "",
+      "website": "amsat.org/?page_id=2785",
+      "mode": "FM",
+      "input": 145.950,
+      "output": 435.1755,
+      "ctcss": 67.0
+    },
+    {
+      "callsign": "LO-78-BEACON",
+      "launched": "2014-02-28",
+      "status": "",
+      "website": "amsat.org/?page_id=2785",
+      "mode": "FM CW",
+      "output": 435.275
+    },
+    {
+      "callsign": "EO-79",
+      "launched": "2014-06-19",
+      "status": "",
+      "website": "amsat.org/?page_id=2944",
+      "transponder": {
+        "input": [
+          "USB",
+          435.035,
+          435.065
+        ],
+        "output": [
+          "USB",
+          145.935,
+          145.965
+        ]
+      },
+      "watts": 0.4
+    },
+    {
+      "callsign": "EO-79-TELEMETRY",
+      "launched": "2014-06-19",
+      "status": "",
+      "website": "amsat.org/?page_id=2944",
+      "mode": "BPSK1k2/CW",
+      "output": 145.815
+    },
+    {
+      "callsign": "EO-80",
+      "launched": "2014-06-19",
+      "status": "",
+      "website": "amsat.org/?page_id=2948",
+      "mode": "FM",
+      "input": 435.080,
+      "output": 145.840,
+      "ctcss": 210.7
+    },
+    {
+      "callsign": "EO-80-TELEMETRY",
+      "launched": "2014-06-19",
+      "status": "",
+      "website": "amsat.org/?page_id=2948",
+      "mode": "BPSK1k2/CW",
+      "output": 145.880
+    }
+  ]
+}

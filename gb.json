@@ -34,6 +34,245 @@
       "country": "gb",
       "locator": "IO81tk",
       "website": "gb7bs.com"
+    },
+    {
+      "callsign": "GB3AA",
+      "input": 145.0625,
+      "output": 145.6625,
+      "country": "gb",
+      "locator": "IO81ro",
+      "ctcss": 93.8
+    },
+    {
+      "callsign": "GB3FI",
+      "input": 438.525,
+      "output": 430.925,
+      "country": "gb",
+      "locator": "IO81oh",
+      "ctcss": 77.0
+    },
+    {
+      "callsign": "GB3JB",
+      "input": 145.1875,
+      "output": 145.7875,
+      "country": "gb",
+      "locator": "IO81vc",
+      "ctcss": 103.5
+    },
+    {
+      "callsign": "GB3SG",
+      "input": 434.9750,
+      "output": 433.3740,
+      "country": "gb",
+      "locator": "IO81lr",
+      "ctcss": 94.8
+    },
+    {
+      "callsign": "GB3WB",
+      "input": 434.900,
+      "output": 433.300,
+      "country": "gb",
+      "locator": "IO81mh",
+      "ctcss": 94.8
+    },
+    {
+      "callsign": "GB3ZB",
+      "input": 438.4250,
+      "output": 430.8250,
+      "country": "gb",
+      "locator": "IO81qj",
+      "ctcss": 77.0
+    },
+    {
+      "callsign": "GB3AE",
+      "input": 51.220,
+      "output": 50.720,
+      "country": "gb",
+      "locator": "IO71pr"
+    },
+    {
+      "callsign": "GB3AM",
+      "input": 51.340,
+      "output": 50.840,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO91QP"
+    },
+    {
+      "callsign": "GB3CT",
+      "input": 51.350,
+      "output": 50.850,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO92mg"
+    },
+    {
+      "callsign": "GB3FX",
+      "input": 51.310,
+      "output": 50.810,
+      "country": "gb",
+      "ctcss": 82.5,
+      "locator": "IO91of"
+    },
+    {
+      "callsign": "GB3GC",
+      "input": 51.230,
+      "output": 50.730,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO70wn"
+    },
+    {
+      "callsign": "GB3HM",
+      "input": 51.320,
+      "output": 50.820,
+      "country": "gb",
+      "ctcss": 71.9,
+      "locator": "IO93ga"
+    },
+    {
+      "callsign": "GB3JX",
+      "input": 51.330,
+      "output": 50.830,
+      "country": "gb",
+      "ctcss": 94.8,
+      "locator": "JO02qp"
+    },
+    {
+      "callsign": "GB3LP",
+      "input": 51.250,
+      "output": 50.750,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO83mk"
+    },
+    {
+      "callsign": "GB3SL",
+      "input": 51.230,
+      "output": 50.730,
+      "country": "gb",
+      "ctcss": 103.5,
+      "locator": "IO75xx"
+    },
+    {
+      "callsign": "GB3SX",
+      "input": 51.290,
+      "output": 50.790,
+      "country": "gb",
+      "ctcss": 103.5,
+      "locator": "IO93ba"
+    },
+    {
+      "callsign": "GB3TY",
+      "input": 51.280,
+      "output": 50.780,
+      "country": "gb",
+      "ctcss": 110.9,
+      "locator": "IO74bs"
+    },
+    {
+      "callsign": "GB3UM",
+      "input": 51.240,
+      "output": 50.740,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO92iq"
+    },
+    {
+      "callsign": "GB3WX-6",
+      "input": 29.2100,
+      "output": 50.5200,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO81vc"
+    },
+    {
+      "callsign": "GB3WY",
+      "input": 51.300,
+      "output": 50.800,
+      "country": "gb",
+      "ctcss": 82.5,
+      "locator": "IO93ep"
+    },
+    {
+      "callsign": "GB3XD",
+      "input": 51.230,
+      "output": 50.730,
+      "country": "gb",
+      "ctcss": 71.9,
+      "locator": "IO93wh"
+    },
+    {
+      "callsign": "GB3ZW",
+      "input": 51.310,
+      "output": 50.810,
+      "country": "gb",
+      "ctcss": 103.5,
+      "locator": "IO82hl"
+    },
+    {
+      "callsign": "GB3ZY",
+      "input": 51.300,
+      "output": 50.800,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO81qj"
+    },
+    {
+      "callsign": "GB3FH",
+      "input": 51.270,
+      "output": 50.770,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO81oh"
+    },
+    {
+      "callsign": "GB3DB",
+      "input": 51.270,
+      "output": 50.770,
+      "country": "gb",
+      "ctcss": 110.9,
+      "locator": "JO01hr"
+    },
+    {
+      "callsign": "GB3EF",
+      "input": 51.220,
+      "output": 50.720,
+      "country": "gb",
+      "ctcss": 110.9,
+      "locator": "JO02nf"
+    },
+    {
+      "callsign": "GB3PX",
+      "input": 51.280,
+      "output": 50.780,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO92XA"
+    },
+    {
+      "callsign": "GB3CJ",
+      "input": 29.540,
+      "output": 29.640,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO92nf"
+    },
+    {
+      "callsign": "GB3GX",
+      "input": 29.590,
+      "output": 29.690,
+      "country": "gb",
+      "ctcss": 103.5,
+      "locator": "IO82qj"
+    },
+    {
+      "callsign": "GB3WX-10",
+      "input": 50.520,
+      "output": 29.210,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO81vc"
     }
   ]
 }

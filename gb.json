@@ -16,8 +16,17 @@
       "bandwidth": 25,
       "ctcss": 118.8,
       "country": "gb",
-      "locator": "IO81tk",
+      "locator": "IO86GC",
       "website": "gb3bs.com"
+    },
+    {
+      "callsign": "GB3FF",
+      "input": 145.000,
+      "output": 145.600,
+      "ctcss": 103.5,
+      "country": "gb",
+      "locator": "IO86GC",
+      "website": "http://www.csfmg.com/GB3FF.htm"
     },
     {
       "callsign": "GB7BS",

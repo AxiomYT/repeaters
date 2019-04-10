@@ -13,21 +13,21 @@
       "callsign": "GB3CJ",
       "output": 29.64,
       "input": 29.54,
-      "locator": "\tIO92NF",
+      "locator": "IO92NF",
       "ctcss": 77
    },
   {
       "callsign": "GB3GX",
       "output": 29.69,
       "input": 29.59,
-      "locator": "\tSO604772",
+      "locator": "SO604772",
       "ctcss": 103.5
   },
   {
       "callsign": "GB3WX",
       "output": 29.21,
       "input": 50.52,
-      "locator": "\tST867333",
+      "locator": "ST867333",
       "ctcss": 77
   }
     {

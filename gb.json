@@ -276,12 +276,20 @@
       "locator": "IO82qj"
     },
     {
-      "callsign": "GB3WX-10",
+      "callsign": "GB3WX",
       "input": 50.520,
       "output": 29.210,
       "country": "gb",
       "ctcss": 77.0,
       "locator": "IO81vc"
+    }
+    {
+      "callsign": "GB7MW",
+      "input": 439.4875,
+      "output": 430.4875,
+      "country": "gb",
+      "ctcss": 77.0,
+      "locator": "IO74BS",
     }
   ]
 }

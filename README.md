@@ -20,4 +20,4 @@ Format:
 }
 ```
 
-Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/caluml/repeaters/master/gb.json
+Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

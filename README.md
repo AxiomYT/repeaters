@@ -1,4 +1,4 @@
-# repeaters
+# GB Repeaters
 
 This is a JSON formatted list of amateur radio repeaters.
 Please submit pull requests with any updates.
@@ -22,5 +22,17 @@ Format:
     "STATUS": "OPERATIONAL"
   },
 ```
+
+# Key
+
+## Modes
+* A - Analogue Voice
+* D - D-STAR
+* M - DMR
+* F - Yaesu Fusion
+* P - P25
+* N - NXDN
+* T - TV
+* X - AX25
 
 Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

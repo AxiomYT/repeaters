@@ -46,4 +46,8 @@ Format:
 * NOR - North England
 * NI - Northern Ireland
 
+## Channel
+
+[Channelisation Key](https://github.com/AxiomYT/repeaters/blob/master/Channelisation%20Key.xlsx)
+
 Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

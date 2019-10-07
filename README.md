@@ -36,4 +36,14 @@ Format:
 * T - TV
 * X - AX25
 
+## Area
+
+* WM - Wales and Marches
+* SE - South-East, England
+* MID - Midlands, England
+* SW - South-West, England
+* SCO - Scotland
+* NOR - North England
+* NI - Northern Ireland
+
 Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

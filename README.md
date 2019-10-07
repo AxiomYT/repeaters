@@ -28,6 +28,7 @@ Format:
 ## Modes
 * A - Analogue Voice
 * D - D-STAR
+* AD - Analogue + D-star
 * M - DMR
 * F - Yaesu Fusion
 * P - P25

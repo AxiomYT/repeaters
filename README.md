@@ -23,7 +23,39 @@ Format:
   },
 ```
 
+# Satellites
+
+This is a JSON formatted list of amateur radio satellites.
+Please submit pull requests with any updates.
+
+Format:
+```JSON
+    {
+    "Satellite": "AO-1 (Oscar-1)",
+    "Number": 214,
+    "Uplink": "",
+    "Downlink": "",
+    "Beacon": 144.983,
+    "Mode": "CW",
+    "Callsign": "",
+    "Status": "r"
+  },
+```
+
 # Key
+
+## Satellite Status
+
+* (\*) - Active  
+* D - Deep space  
+* F - Failure  
+* I - Inactive  
+* N	- Non-amateur  
+* R - Re-entered  
+* T - To be launched  
+* U - Unknown  
+* W - Weather sat  
+
 
 ## Modes
 * A - Analogue Voice

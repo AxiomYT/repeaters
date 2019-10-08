@@ -86,15 +86,15 @@ Through audio (reference), CTCSS at -16 dB, Ack/callsign tone at -6 dB (high) -1
 
 The logic unit can be supplied to other repeater groups, and is available in kit form, or fully assembled.
 
-For further information, contact:
-
-  Mike Stevens, G8CUL,
-  67 New Rd,
-  East Hagbourne,
-  Didcot, Oxon.
-  OX11 9JX.
-
-Tel: 01235 816379
-Fax: 01235 510411
-Packet: G8CUL @ GB7AVM
-[email](mailto:mpstevens@iee.org)
+For further information, contact:  
+  
+  Mike Stevens, G8CUL,  
+  67 New Rd,  
+  East Hagbourne,  
+  Didcot, Oxon.  
+  OX11 9JX.  
+  
+Tel: 01235 816379  
+Fax: 01235 510411  
+Packet: G8CUL @ GB7AVM  
+[email](mailto:mpstevens@iee.org)  

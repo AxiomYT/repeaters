@@ -50,6 +50,18 @@ Format:
 
 [Channelisation Key](https://github.com/AxiomYT/repeaters/blob/master/Channelisation%20Key.xlsx)
 
+## RSGB Band Plan
+
+[Band Plan](https://github.com/AxiomYT/repeaters/blob/master/rsgb_band_plan_2019%20(1).xls)
+
+## Packet List
+
+[Digital Packet List](https://github.com/AxiomYT/repeaters/blob/master/packetlist.xls)
+
+## GB3 Callsign Allocation
+
+[GB3✗✗ Callsign Allocation](https://github.com/AxiomYT/repeaters/blob/master/GH3%20Callsign%20Allocation.xlsx)
+
 # Acknoledgement
 
 Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

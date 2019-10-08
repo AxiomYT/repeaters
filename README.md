@@ -15,7 +15,7 @@ Format:
     "LOCATION NAME": "EDINBURGH",
     "AREA": "SCO",
     "CTCSS": "94.8Hz/DMR1",
-    "WEBSITE": "https://www.dmrscotland.co.uk/survey/",
+    "WEBSITE": "https://www.dmrscotland.co.uk/",
     "KEEPER": "GM4GZW",
     "LATITUDE": 55.94,
     "LONGITUDE": -3.21,

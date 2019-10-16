@@ -94,6 +94,6 @@ Format:
 
 [GB3✗✗ Callsign Allocation](https://github.com/AxiomYT/repeaters/blob/master/GH3%20Callsign%20Allocation.xlsx)
 
-# Acknoledgement
+# Acknowledgement
 
 Feel free to reference the files directly from your app. E.g. https://raw.githubusercontent.com/AxiomYT/repeaters/master/gb.json

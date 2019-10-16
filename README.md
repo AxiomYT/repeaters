@@ -30,15 +30,15 @@ Please submit pull requests with any updates.
 
 Format:
 ```JSON
-    {
-    "Satellite": "AO-1 (Oscar-1)",
-    "Number": 214,
-    "Uplink": "",
-    "Downlink": "",
-    "Beacon": 144.983,
-    "Mode": "CW",
-    "Callsign": "",
-    "Status": "r"
+     {
+    "Satellite": "ISS",
+    "Number": 25544,
+    "Uplink": 145.825,
+    "Downlink": 145.825,
+    "Beacon": "",
+    "Mode": "1200bps AFSK",
+    "Callsign": "RS0ISS ARISS",
+    "Status": "*"
   },
 ```
 
